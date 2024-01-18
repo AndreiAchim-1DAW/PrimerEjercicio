@@ -1,0 +1,49 @@
+body {
+    background-color: beige;
+    text-align: center;
+}
+h1{
+    color: crimson;
+}
+img {
+    width: 80%;
+    height: 70%;
+}
+nav {
+    background-color: aquamarine;
+    position: absolute;
+    width: 20%;
+    height: 20%;
+    right: 70%;
+    left: 5%;
+    border: 1px solid black;
+    border-radius: 20%;
+}
+nav a p{
+    padding-top: 10%;
+    margin-top: 10%;
+}
+section{
+    background-color: aquamarine;
+    position: absolute;
+    left: 30%;
+    right: 30%;
+    width: 40%;
+    height: 40%;
+    border: 1px solid black;
+    border-radius: 20%;
+}
+aside{
+    background-color: aquamarine;
+    position: absolute;
+    left: 80%;
+    right: 5%;
+    border: 1px solid black;
+    border-radius: 20%;
+}
+footer{
+    position: absolute;
+    top: 80%;
+    left: 40%;
+    right: 40%;
+}
